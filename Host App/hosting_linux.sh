@@ -1,0 +1,1 @@
+/usr/local/bin/Rscript /home/user/Application_folder/Run_App.R >> /home/user/Application_folder/Logs/Run_Logs.txt 2>&1
